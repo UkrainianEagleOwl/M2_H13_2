@@ -2,3 +2,7 @@
 *.pyc
 *.pyc
 *.pyc
+.env
+*.pyc
+quotes_project/quotes/__pycache__/__init__.cpython-310.pyc
+quotes_project/quotes/__pycache__/admin.cpython-310.pyc
